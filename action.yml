@@ -1,6 +1,6 @@
 # action.yml
 name: PerfAction for JMeter
-
+description: Run performance tests using JMeter test plan
 branding:
   color: blue
   icon: feather
