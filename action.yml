@@ -1,5 +1,5 @@
 # action.yml
-name: Performance for JMeter
+name: PerfAction for JMeter
 
 branding:
   color: blue
